@@ -1,3 +1,4 @@
+---------------------------------------------------------------------------------------------
 🔐 Arduino Smart Door Lock System
 
 A password-based smart door locking system built using Arduino Uno.
@@ -20,7 +21,7 @@ This project allows users to register a secure PIN and unlock the door using a k
 
 🔐 Automatic lock after unlocking
 
-
+---------------------------------------------------------------------------------------------
 
 🛠️ Components Used
 
@@ -39,6 +40,10 @@ This project allows users to register a secure PIN and unlock the door using a k
 🔹 Breadboard
 
 🔹 USB Cable
+
+---------------------------------------------------------------------------------------------
+
+🔌 Circuit Connection
 
 
 📟 I2C LCD Connections
@@ -83,6 +88,7 @@ This project allows users to register a secure PIN and unlock the door using a k
 | Positive (+) | A0              |
 | Negative (–) | GND             |
 
+---------------------------------------------------------------------------------------------
 
 ⚙️ Working Principle
 
@@ -106,7 +112,7 @@ This project allows users to register a secure PIN and unlock the door using a k
   
  🔹 After multiple incorrect attempts, the system temporarily blocks access.
 
- 
+---------------------------------------------------------------------------------------------
 
 🔮 Future Improvements
 
@@ -119,6 +125,8 @@ This project allows users to register a secure PIN and unlock the door using a k
 🔹 Add real-time clock (RTC) for time-based access logs
 
 🔹 Cloud-based monitoring system
+
+---------------------------------------------------------------------------------------------
 
 
 🎯 Applications
@@ -133,10 +141,13 @@ This project allows users to register a secure PIN and unlock the door using a k
 
 🔹 Educational embedded system projects
 
+---------------------------------------------------------------------------------------------
+
 🧪 Simulation Platform
 
 🔹Tinkercad Circuits
 
+---------------------------------------------------------------------------------------------
 
 📌 Click on below link for simulation or copy link and paste in browser to think this 👇
 
