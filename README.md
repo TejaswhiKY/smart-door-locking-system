@@ -3,6 +3,7 @@
 ---------------------------------------------------------------------------------------------
 A password-based smart door locking system built using Arduino Uno.
 This project allows users to register a secure PIN and unlock the door using a keypad. The system provides real-time feedback through an LCD display and controls a servo motor to simulate door locking and unlocking.
+
 ---------------------------------------------------------------------------------------------
 
 🚀 Features
