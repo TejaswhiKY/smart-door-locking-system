@@ -6,7 +6,7 @@ This project allows users to register a secure PIN and unlock the door using a k
 ---------------------------------------------------------------------------------------------
 
 🚀 Features
-
+---------------------------------------------------------------------------------------------
 🔑 First-time PIN registration
 
 💾 PIN stored securely using EEPROM
@@ -24,7 +24,7 @@ This project allows users to register a secure PIN and unlock the door using a k
 ---------------------------------------------------------------------------------------------
 
 🛠️ Components Used
-
+---------------------------------------------------------------------------------------------
 🔹 Arduino Uno
 
 🔹 4x4 Matrix Keypad
@@ -44,20 +44,19 @@ This project allows users to register a secure PIN and unlock the door using a k
 ---------------------------------------------------------------------------------------------
 
 🔌 Circuit Connection
-
+---------------------------------------------------------------------------------------------
 
 📟 I2C LCD Connections
-
+---------------------------------------------------------------------------------------------
 | LCD Pin | Arduino Uno Pin |
 | ------- | --------------- |
 | GND     | GND             |
 | VCC     | 5V              |
 | SDA     | A4              |
 | SCL     | A5              |
-
-
+---------------------------------------------------------------------------------------------
 ⌨️ 4x4 Keypad Connections
-
+---------------------------------------------------------------------------------------------
 
 | Keypad Pin | Arduino Uno Pin |
 | ---------- | --------------- |
@@ -69,28 +68,26 @@ This project allows users to register a secure PIN and unlock the door using a k
 | Pin 6      | 4               |
 | Pin 7      | 3               |
 | Pin 8      | 2               |
-
-
+---------------------------------------------------------------------------------------------
 🔐 Servo Motor Connections
-
+---------------------------------------------------------------------------------------------
 
 | Servo Wire             | Arduino Uno Pin |
 | ---------------------- | --------------- |
 | Red (VCC)              | 5V              |
 | Brown/Black (GND)      | GND             |
 | Orange/Yellow (Signal) | 10              |
-
+---------------------------------------------------------------------------------------------
 🔊 Buzzer Connections
-
+---------------------------------------------------------------------------------------------
 
 | Buzzer Pin   | Arduino Uno Pin |
 | ------------ | --------------- |
 | Positive (+) | A0              |
 | Negative (–) | GND             |
-
 ---------------------------------------------------------------------------------------------
-
 ⚙️ Working Principle
+---------------------------------------------------------------------------------------------
 
 🔹 The system initializes and displays a welcome message on the LCD.
 
@@ -113,8 +110,8 @@ This project allows users to register a secure PIN and unlock the door using a k
  🔹 After multiple incorrect attempts, the system temporarily blocks access.
 
 ---------------------------------------------------------------------------------------------
-
 🔮 Future Improvements
+---------------------------------------------------------------------------------------------
 
 🔹 Add fingerprint sensor for biometric security
 
@@ -127,10 +124,8 @@ This project allows users to register a secure PIN and unlock the door using a k
 🔹 Cloud-based monitoring system
 
 ---------------------------------------------------------------------------------------------
-
-
 🎯 Applications
-
+---------------------------------------------------------------------------------------------
 🔹 Home security systems
 
 🔹 Office door access control
@@ -142,9 +137,8 @@ This project allows users to register a secure PIN and unlock the door using a k
 🔹 Educational embedded system projects
 
 ---------------------------------------------------------------------------------------------
-
 🧪 Simulation Platform
-
+---------------------------------------------------------------------------------------------
 🔹Tinkercad Circuits
 
 ---------------------------------------------------------------------------------------------
