@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------
-🔐 Arduino Smart Door Lock System
-
+🔐Arduino Smart Door Lock System
+---------------------------------------------------------------------------------------------
 A password-based smart door locking system built using Arduino Uno.
 This project allows users to register a secure PIN and unlock the door using a keypad. The system provides real-time feedback through an LCD display and controls a servo motor to simulate door locking and unlocking.
 ---------------------------------------------------------------------------------------------
@@ -151,4 +151,6 @@ This project allows users to register a secure PIN and unlock the door using a k
 
 📌 Click on below link for simulation or copy link and paste in browser to think this 👇
 
-     https://www.tinkercad.com/things/eEUOK7cjzgo-smart-door-locking-system
+      https://www.tinkercad.com/things/eEUOK7cjzgo-smart-door-locking-system
+
+---------------------------------------------------------------------------------------------
